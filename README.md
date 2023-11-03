@@ -4,7 +4,9 @@ Project Title: Sentiment Analysis for Marketing
 
 Overview:
 
-The Sentiment Analysis for Marketing project is designed to analyse and gain insights from customer sentiment and feedback related to marketing efforts. By harnessing the power of Natural Language Processing (NLP), this project allows marketing professionals to understand customer opinions, make data-driven decisions, and enhance their marketing strategies.
+The Sentiment Analysis for Marketing project is designed to analyse and gain insights from customer sentiment and feedback related to marketing efforts.
+By harnessing the power of Natural Language  Processing (NLP), this project allows marketing professionals to understand customer opinions,
+make data-driven decisions, and enhance their marketing strategies.
 
  
 
@@ -76,7 +78,8 @@ Table of contents:
 
          pip install -r requirements.txt
 
-     *Prepare Your Data :Place your marketing data, such as customer reviews and feedback, in a structured format (e.g., CSV or JSON) within the data directory.
+     *Prepare Your Data :Place your marketing data, such as customer reviews and feedback,
+     in a structured format (e.g., CSV or JSON) within the data directory.
 
      *Run the Analysis: Execute the sentiment analysis script:
 
@@ -88,7 +91,8 @@ Table of contents:
 
      *The dataset we used here is Tweets.csv file format.
 
-     *Ensure that the data is structured and includes text fields suitable for sentiment analysis .Make sure to respect data privacy and follow relevant regulations, especially if the data contains personal information.
+     *Ensure that the data is structured and includes text fields suitable for sentiment analysis .
+     Make sure to respect data privacy and follow relevant regulations, especially if the data contains personal information.
 
  
 
@@ -132,32 +136,38 @@ Table of contents:
 
 *Future Improvements:
 
-     The future of sentiment analysis in marketing holds promise for enhanced accuracy through the incorporation of advanced machine learning techniques, offering businesses a more nuanced understanding of customer sentiment. Real-time sentiment analysis and integration with emerging data sources, such as IoT and wearable devices, will enable marketers to react swiftly to changing customer perceptions. Ethical considerations and privacy compliance will remain crucial areas of development, ensuring responsible and transparent use of sentiment analysis in marketing strategies.
+     The future of sentiment analysis in marketing holds promise for enhanced accuracy through the incorporation of advanced machine learning techniques,
+     offering businesses a more nuanced understanding of customer sentiment. Real-time sentiment analysis and integration with emerging data sources,
+     such as IoT and wearable devices, will enable marketers to react swiftly to changing customer perceptions. 
+     Ethical considerations and privacy compliance will remain crucial areas of development,
+     ensuring responsible and transparent use of sentiment analysis in marketing strategies.
 
    
 
-  *Acknowledgments:
+*Acknowledgments:
 
     *We used python library.
 
     *Kaggle dataset.
 
-    *Dataset link:https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
-
+    *Dataset link: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
  
 
 *Contact:
 
-     *If you have any questions or need assistant ,please contact,steffyshasuresh@gmail.com
+     *If you have any questions or need assistant ,please contact, steffyshasuresh@gmail.com
 
  
 
 *Reference:
 
-    https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21049
+   https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21049
 
  
 
 *Conclusion:
 
-  Sentiment analysis is a powerful tool for deciphering and harnessing the sentiments expressed by customers and prospects in marketing-related content. By applying this technology to customer reviews, social media interactions, and other forms of user-generated content, we gain valuable insights into consumer perceptions, allowing us to make data-driven decisions, refine marketing strategies, and enhance customer satisfaction.
+  Sentiment analysis is a powerful tool for deciphering and harnessing the sentiments expressed by customers and prospects in marketing-related content.
+  By applying this technology to customer reviews, social media interactions, and other forms of user-generated content, 
+  we gain valuable insights into consumer perceptions, allowing us to make data-driven decisions, refine marketing strategies,
+  and enhance customer satisfaction.
