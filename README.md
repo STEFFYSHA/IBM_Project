@@ -150,12 +150,14 @@ Table of contents:
 
     *Kaggle dataset.
 
-    *Dataset link: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+    *Dataset link:
+     https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
  
 
 *Contact:
 
-     *If you have any questions or need assistant ,please contact, steffyshasuresh@gmail.com
+     *If you have any questions or need assistant ,please contact,
+     steffyshasuresh@gmail.com
 
  
 
