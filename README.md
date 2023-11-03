@@ -7,16 +7,27 @@ Overview:
 Table of contents:
 
  *Requirements.
+ 
  *Features.
+ 
  *Getting Started.
+ 
  *Data.
+ 
  *Usage.
+ 
  *Models.
+
  *Steps taken.
+ 
  *Future Improvements.
+ 
  *Acknowledgments.
+ 
  *Contact.
+ 
  *Reference.
+ 
  *Conclusion.
 
 *Requirements:
